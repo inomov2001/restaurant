@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/sql/001_create_table.up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql/001_delete_table.down.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql/002_delete_rol.down.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql/002_insert_table.up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql/003_Update_basket.up.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/sql/003_down_basket.down.sql" dialect="GenericSQL" />
+  </component>
+</project>
